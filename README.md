@@ -1,7 +1,7 @@
 # Microbial Community Analysis 
 
 ## About
-This respository contains R workflows used to analyze microbial community sequence data. Single-taxa comarisons were performed using the package `DESeq2` while community comparisons were performed via the package `microbiome`.
+This respository contains R workflows used to analyze microbial communities rRNA sequence data. Individual taxa comarisons were performed using the package `DESeq2` while community comparisons were performed via the `microbiome` package. All analyses utlized phylogenetic, taxonomic, and meta data sets to inform comparisons.
 
 ## Repository Overview
 * `data_raw/`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Original data recieved for analysis.
