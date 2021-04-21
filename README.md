@@ -10,7 +10,7 @@ Four analyses were performed to analyze how the fungal genus Fusarium and its as
 * **comb-wsfs**, uses EF rRNA OTU counts to compare the effects of two tillage and two cover cropping treatments.
 * **RK-T52**, uses estimates of *actual* soil microbe EF rRNA OTU abundances to compare species between treatments.
 
-For each analysis, raw data (found in `data_raw/`) was formatted via the script `format_data_raw.R` and exported into the directory 'data_prepared/'. 
+For each analysis, raw data (found in `data_raw/`) was formatted via the script `format_data_raw.R` and exported into the directory `data_prepared/` to be analyzed by its corresponding analysis script.
 
 ## Repository Overview
 * `data_raw/`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Original data recieved for analysis.
