@@ -1,11 +1,7 @@
 Publication analysis: Fusarium community
 
-
-
 ## About
 *insert paper description*
-
-
 
 ## Repository Overview
 * `data_raw/`       Original data recieved for analysis.
