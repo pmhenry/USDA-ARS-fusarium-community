@@ -1,4 +1,4 @@
-Publication analysis: Fusarium community
+# Publication analysis: Fusarium community
 
 ## About
 This respository showcases R workflows for analysing microbial community sequence data. Single-taxa comarisons are performed using the package `DESeq2` while community comparisons are performed with the package `microbiome`.
