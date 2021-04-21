@@ -9,4 +9,6 @@ This respository displays R workflows used to analyze microbial community sequen
 * `scripts/`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All R scripts used in this publication analysis.
 
 ## Dependencies
-* [Phyloseq](https://joey711.github.io/phyloseq/)
+* [Phyloseq](https://joey711.github.io/phyloseq/) for stacked bar chart and NMDS vizualizations.
+* [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) for individual taxa comarisons.
+* [microbiome](https://microbiome.github.io/) for community-level comparisons.
